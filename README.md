@@ -71,7 +71,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en)
 
-## #2.Maybank2U – Maybank’s Brand New Mobile Application
+## #2. Maybank2U – Maybank’s Brand New Mobile Application
 ### Responsibilities:
 - Implemented Face Enrollment for login.
 - Implemented Voice Enrollment for login.
