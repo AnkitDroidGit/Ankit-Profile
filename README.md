@@ -119,7 +119,7 @@
 - Post production support and bug fixes.
 
 ### Project URL
--[Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
+- [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
 
 
 
