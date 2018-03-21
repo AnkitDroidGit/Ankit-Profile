@@ -1,14 +1,14 @@
 # Ankit Kumar 
-- `Citizenship:` Indian.
+- `Citizenship:` Indian
 - `Date of birth:` 05 December 1991
 - `Mobile:` +601131771343
-- `Email:` ankitiroiiieveloper@gmail.com
+- `Email:` ankitdroiddeveloper@gmail.com
 - `Passport Number:` J6673234
 - `Visa:` Employment Pass of Malaysia
 
 - My profile is also available as an [Android Application Here](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile)
 
-# Organizational Experience
+## Organizational Experience
 - Since Jan, 2017 with Soft Reflexes Sdn Bhd deployed at client location Maybank, Kuala Lumpur.
 - Oct, 2015 – Aug, 2016 with GoodWorkLabs Services, Bangalore, India.
 - Nov, 2014 - Oct, 2015 with InteractionOne Solutions, Bangalore, India.
