@@ -79,7 +79,7 @@
 - Implemented Voice Authentication for login.
 
 ### Project URL
-[Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
+- [Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
 
 
 
