@@ -47,7 +47,7 @@
 - [Bintray](https//bintray.com/ankitdroiddeveloper)
 
 # Projects Undertaken
-## 1 MiKE – Maybank Investment Bank New Application
+## MiKE – Maybank Investment Bank New Application
 ### Responsibilities:
 - Android Tech Lead and Android application developer.
 - Requirement analysis & business logic implementation.
