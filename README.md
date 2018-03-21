@@ -38,7 +38,7 @@
 - Intermediate (2008) with 81.20% from JNV Haridwar, India
 - High School (2006) with 90.40% from JNV Haridwar, India
 
-##Network Profile and Code Repository
+## Network Profile and Code Repository
 - [Github](https//github.com/AnkitDroidGit)
 - [LinkedIn](https//www.linkedin.com/in/kumarankitkumar/)
 - [Stackoverflow](https//etackoverfow.com/ueere/3282461/ankit-kumar)
