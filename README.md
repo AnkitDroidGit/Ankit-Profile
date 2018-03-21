@@ -100,5 +100,26 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en)
 
+## #4. Canvera Application
+### Responsibilities:
+- Team Lead And Android Application Developer.
+- Responsible for assigning task to team and reviewing their code.
+- Implemented Photobook feature with custom Albem View with curl animation effects.
+- Implemented Ideabook feature with custom Albem View with curl animation effects.
+- Implemted Async downloads of photos in synchronized thred with priority queue. 
+- Implemented Chat/Comments feature on photobook photos.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Implemented Google Cloud Messaging Push Notifications.
+- Implemented SQLite to make app work in offline mode as well
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application biweekly to Testing Team through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+-[Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
+
 
 
