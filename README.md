@@ -68,7 +68,8 @@
 - Release application on Google Play Store.
 - Involved in code review and document preparation with project architect, developed unit test case and documents.
 
-### Project URL: https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en
+### Project URL
+- [Google Play](https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en)
 
 
 
