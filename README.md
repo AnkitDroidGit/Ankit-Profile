@@ -46,3 +46,29 @@
 - [Blogger](https//androidhumanrobot.blogepot.com)
 - [Bintray](https//bintray.com/ankitdroiddeveloper)
 
+# Projects Undertaken
+## 1 MiKE – Maybank Investment Bank New Application
+### Responsibilities:
+- Android Tech Lead and Android application developer.
+- Requirement analysis & business logic implementation.
+- Implemented UI/UX for Order Management System with Bursa Malaysia.
+- Integrated Web Service and Web Socket Order for Management System with Bursa Malaysia.
+- Implemented Watchlist and Favorite Group concept in application
+- Development of the application to adapt different orientations and multiple resolutions
+- depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Implemented Firebase Analytics
+- Implemented Firebase Dynamic linking.
+- Implemented Firebase Performance Tracing.
+- Implemented Firbase Test Lab.
+- Implemented Firebase Push Notifications.
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application to SIT and UAT through Fabric.
+- Release application on Google Play Store.
+- Involved in code review and document preparation with project architect, developed unit test case and documents.
+
+### Project URL: https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en
+
+
+
