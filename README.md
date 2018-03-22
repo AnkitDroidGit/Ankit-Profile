@@ -121,5 +121,44 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
 
+## #5. Mobmerry- Window Shop your City
+### Responsibilities:
+- Main Android Application Developer.
+- Implemented Order System in application.
+- Implemented Beacons based User detection and redemption concept in application.
+- Responsible for Facebook Login.
+- Implemented Product pages with various animations.
+- Implemented navigation system inside application to head user to nearest store.
+- Implemented Wishlist and Favourite Group based on user’s facebook Likes.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Implemented Google Analytics.
+- Implemented Google Cloud Messaging Push Notifications.
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+- [Gppgle Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
+
+
+## #6. Mobmerry Merchant Application
+### Responsibilities:
+- Implemented Beacons based User detection and redemption concept in application.
+- Responsible for Facebook Login.
+- Implemented Product pages with various animations.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Implemented Google Analytics.
+- Implemented Google Cloud Messaging Push Notifications.
+- Worked on Fragments and Fragment Transactions
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application build biweekly to Testing Team through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+- Not Available publicly on play store
+
 
 
