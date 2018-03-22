@@ -45,7 +45,7 @@
 - [Bintray](https//bintray.com/ankitdroiddeveloper)
 
 # Projects Undertaken
-## #1. MiKE – Maybank Investment Bank New Application
+## `MiKE – Maybank Investment Bank New Application`
 ### Responsibilities:
 - Android Tech Lead and Android application developer.
 - Requirement analysis & business logic implementation.
@@ -69,7 +69,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en)
 
-## #2. Maybank2U – Maybank’s Brand New Mobile Application
+## `Maybank2U – Maybank’s Brand New Mobile Application`
 ### Responsibilities:
 - Implemented Face Enrollment for login.
 - Implemented Voice Enrollment for login.
@@ -79,7 +79,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
 
-## #3. Canvera Partner Application
+## `Canvera Partner Application`
 ### Responsibilities:
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
@@ -98,7 +98,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en)
 
-## #4. Canvera Application
+## `Canvera Application`
 ### Responsibilities:
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
@@ -119,7 +119,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
 
-## #5. Mobmerry- Window Shop your City
+## `Mobmerry- Window Shop your City`
 ### Responsibilities:
 - Main Android Application Developer.
 - Implemented Order System in application.
@@ -140,7 +140,7 @@
 - [Gppgle Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
 
 
-## #6. Mobmerry Merchant Application
+## `Mobmerry Merchant Application`
 ### Responsibilities:
 - Implemented Beacons based User detection and redemption concept in application.
 - Responsible for Facebook Login.
@@ -155,10 +155,8 @@
 - Release application on Google Play Store.
 - Post production support and bug fixes.
 
-### Project URL
-- Not Available publicly on play store
 
-## #7. Times Now English News Application
+## `Times Now English News Application`
 ### Responsibilities:
 - Implemented Login through Google, Facebook and Twitter
 - Worked on Fragments and Fragment Transactions
@@ -180,7 +178,7 @@
 - [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
 
 
-## #8. Binge- Pay Smarter at Bangalore Restaurants
+## `Binge- Pay Smarter at Bangalore Restaurants`
 ### Responsibilities:
 - Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
 - Implemented Maps and Navigation system to selected restaurant.
@@ -191,3 +189,17 @@
 
 ### Project URL
 - [Tap to check it on Play Store](https://play.google.com/store/apps/details?id=com.noroc.binge&hl=en)
+
+## `MilApp- Meeting and Dating Application`
+### Responsibilities:
+- Implemented map, navigation for meeting and group meetings.
+- Implemented chat and group chat.
+- Implemented rating system.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+
+
+## `Hello Trade – A Web Crawler`
+### Responsibilities:
+- Implemented web crawler.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
