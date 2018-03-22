@@ -1,11 +1,10 @@
 # Ankit Kumar 
 - `Citizenship:` Indian
 - `Date of birth:` 05 December 1991
-- `Mobile:` +601131771343
 - `Email:` ankitdroiddeveloper@gmail.com
-- `Passport Number:` J6673234
 - `Visa:` Employment Pass of Malaysia
 
+## Android Application
 - My profile is also available as an [Android Application Here](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile)
 
 ## Organizational Experience
@@ -45,3 +44,162 @@
 - [Blogger](https//androidhumanrobot.blogepot.com)
 - [Bintray](https//bintray.com/ankitdroiddeveloper)
 
+# Projects Undertaken
+## `MiKE – Maybank Investment Bank New Application`
+### Responsibilities:
+- Android Tech Lead and Android application developer.
+- Requirement analysis & business logic implementation.
+- Implemented UI/UX for Order Management System with Bursa Malaysia.
+- Integrated Web Service and Web Socket Order for Management System with Bursa Malaysia.
+- Implemented Watchlist and Favorite Group concept in application
+- Development of the application to adapt different orientations and multiple resolutions
+- depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Implemented Firebase Analytics
+- Implemented Firebase Dynamic linking.
+- Implemented Firebase Performance Tracing.
+- Implemented Firbase Test Lab.
+- Implemented Firebase Push Notifications.
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application to SIT and UAT through Fabric.
+- Release application on Google Play Store.
+- Involved in code review and document preparation with project architect, developed unit test case and documents.
+
+### Project URL
+- [Google Play](https://play.google.com/store/apps/details?id=com.mbb.mketrade&hl=en)
+
+## `Maybank2U – Maybank’s Brand New Mobile Application`
+### Responsibilities:
+- Implemented Face Enrollment for login.
+- Implemented Voice Enrollment for login.
+- Implemented Face Authentication for login.
+- Implemented Voice Authentication for login.
+
+### Project URL
+- [Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
+
+## `Canvera - Partner Application`
+### Responsibilities:
+- Team Lead And Android Application Developer.
+- Responsible for assigning task to team and reviewing their code.
+- Implemented Photobook feature with custom Albem View with curl animation effects.
+- Implemted Async downloads of photos in synchronized thred with priority queue. 
+- Implemented Chat/Comments feature on photobook photos.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Implemented Google Cloud Messaging Push Notifications.
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application biweekly to Testing Team through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+- [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en)
+
+## `Canvera - Customer Application`
+### Responsibilities:
+- Team Lead And Android Application Developer.
+- Responsible for assigning task to team and reviewing their code.
+- Implemented Photobook feature with custom Albem View with curl animation effects.
+- Implemented Ideabook feature with custom Albem View with curl animation effects.
+- Implemted Async downloads of photos in synchronized thred with priority queue. 
+- Implemented Chat/Comments feature on photobook photos.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Implemented Google Cloud Messaging Push Notifications.
+- Implemented SQLite to make app work in offline mode as well
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application biweekly to Testing Team through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+- [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
+
+## `Mobmerry- Window Shop your City`
+### Responsibilities:
+- Main Android Application Developer.
+- Implemented Order System in application.
+- Implemented Beacons based User detection and redemption concept in application.
+- Responsible for Facebook Login.
+- Implemented Product pages with various animations.
+- Implemented navigation system inside application to head user to nearest store.
+- Implemented Wishlist and Favourite Group based on user’s facebook Likes.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Implemented Google Analytics.
+- Implemented Google Cloud Messaging Push Notifications.
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project URL
+- [Gppgle Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
+
+
+## `Mobmerry - Merchant Application`
+### Responsibilities:
+- Implemented Beacons based User detection and redemption concept in application.
+- Responsible for Facebook Login.
+- Implemented Product pages with various animations.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Implemented Google Analytics.
+- Implemented Google Cloud Messaging Push Notifications.
+- Worked on Fragments and Fragment Transactions
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes.
+- Release application build biweekly to Testing Team through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+
+## `Times Now - English News Application`
+### Responsibilities:
+- Implemented Login through Google, Facebook and Twitter
+- Worked on Fragments and Fragment Transactions
+- Implemented Live Video and Audio Streaming.
+- Worked on localization for different parts of India.
+- Implemented SQLite to make app work in offline mode as well.
+- Developed various customized UI Components
+- Handling of Parallel execution of AsyncTasks to reduce the delay
+- Enhance User Experience of the application by Caching the Data
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Unit Testing and fixing the bugs
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes
+- Implemented Google Analytics, Flurry Analytics, Apasalr Analytics, Akamai Analytics, Vidopia Analytics, cleavertap/wizrocket analtics.
+- Release application build biweekly to Client(Times Now, Mumbai) through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project Url : 
+- [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
+
+
+## `Binge - Pay Smarter at Bangalore Restaurants`
+### Responsibilities:
+- Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
+- Implemented Maps and Navigation system to selected restaurant.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Post production support and bug fixes.
+
+### Project URL
+- [Tap to check it on Play Store](https://play.google.com/store/apps/details?id=com.noroc.binge&hl=en)
+
+## `MilApp - Meeting and Dating Application`
+### Responsibilities:
+- Implemented map, navigation for meeting and group meetings.
+- Implemented chat and group chat.
+- Implemented rating system.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+
+
+## `Hello Trade – A Web Crawler`
+### Responsibilities:
+- Implemented web crawler.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
