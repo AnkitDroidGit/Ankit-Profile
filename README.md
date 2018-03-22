@@ -180,4 +180,14 @@
 - [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
 
 
+## #8. Binge- Pay Smarter at Bangalore Restaurants
+### Responsibilities:
+- Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
+- Implemented Maps and Navigation system to selected restaurant.
+- Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Written UI testing with Espresso and Cucumber scripts.
+- Post production support and bug fixes.
 
+### Project URL
+- [Tap to check it on Play Store](https://play.google.com/store/apps/details?id=com.noroc.binge&hl=en)
