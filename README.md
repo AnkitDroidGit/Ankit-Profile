@@ -79,7 +79,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
 
-## `Canvera Partner Application`
+## `Canvera - Partner Application`
 ### Responsibilities:
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
@@ -98,7 +98,7 @@
 ### Project URL
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en)
 
-## `Canvera Application`
+## `Canvera - Customer Application`
 ### Responsibilities:
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
@@ -140,7 +140,7 @@
 - [Gppgle Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
 
 
-## `Mobmerry Merchant Application`
+## `Mobmerry - Merchant Application`
 ### Responsibilities:
 - Implemented Beacons based User detection and redemption concept in application.
 - Responsible for Facebook Login.
@@ -156,7 +156,7 @@
 - Post production support and bug fixes.
 
 
-## `Times Now English News Application`
+## `Times Now - English News Application`
 ### Responsibilities:
 - Implemented Login through Google, Facebook and Twitter
 - Worked on Fragments and Fragment Transactions
@@ -178,7 +178,7 @@
 - [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
 
 
-## `Binge- Pay Smarter at Bangalore Restaurants`
+## `Binge - Pay Smarter at Bangalore Restaurants`
 ### Responsibilities:
 - Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
 - Implemented Maps and Navigation system to selected restaurant.
@@ -190,7 +190,7 @@
 ### Project URL
 - [Tap to check it on Play Store](https://play.google.com/store/apps/details?id=com.noroc.binge&hl=en)
 
-## `MilApp- Meeting and Dating Application`
+## `MilApp - Meeting and Dating Application`
 ### Responsibilities:
 - Implemented map, navigation for meeting and group meetings.
 - Implemented chat and group chat.
