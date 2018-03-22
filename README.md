@@ -1,9 +1,7 @@
 # Ankit Kumar 
 - `Citizenship:` Indian
 - `Date of birth:` 05 December 1991
-- `Mobile:` +601131771343
 - `Email:` ankitdroiddeveloper@gmail.com
-- `Passport Number:` J6673234
 - `Visa:` Employment Pass of Malaysia
 
 ## Android Application
@@ -159,6 +157,27 @@
 
 ### Project URL
 - Not Available publicly on play store
+
+## #7. Times Now English News Application
+### Responsibilities:
+- Implemented Login through Google, Facebook and Twitter
+- Worked on Fragments and Fragment Transactions
+- Implemented Live Video and Audio Streaming.
+- Worked on localization for different parts of India.
+- Implemented SQLite to make app work in offline mode as well.
+- Developed various customized UI Components
+- Handling of Parallel execution of AsyncTasks to reduce the delay
+- Enhance User Experience of the application by Caching the Data
+- Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
+- Unit Testing and fixing the bugs
+- Provided subsequent Releases which included feature changes, enhancements and bug fixes
+- Implemented Google Analytics, Flurry Analytics, Apasalr Analytics, Akamai Analytics, Vidopia Analytics, cleavertap/wizrocket analtics.
+- Release application build biweekly to Client(Times Now, Mumbai) through Fabric.
+- Release application on Google Play Store.
+- Post production support and bug fixes.
+
+### Project Url : 
+- [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
 
 
 
