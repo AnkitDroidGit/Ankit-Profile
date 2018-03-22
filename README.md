@@ -6,7 +6,10 @@
 
 ## Android Application
 - My profile is also available as an [Android Application Here](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile) or just scan QRCode below
-- [QRCode] 
+![QRCode](https://github.com/AnkitDroidGit/MyResume/blob/master/ankit.png)
+
+## Download PDF Format
+- Just [click here](https://github.com/AnkitDroidGit/MyResume/blob/master/Ankit_Kumar_Android.pdf) to view/download PDF document.
 
 ## Organizational Experience
 - Since Jan, 2017 with Soft Reflexes Sdn Bhd deployed at client location Maybank, Kuala Lumpur.
