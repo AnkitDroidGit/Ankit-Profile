@@ -190,6 +190,7 @@
 
 ## `Binge - Pay Smarter at Bangalore Restaurants`
 ### Responsibilities and achievements :
+- Rated 4.3 stars on Android Google Play.
 - Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
 - Implemented Maps and Navigation system to selected restaurant.
 - Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
