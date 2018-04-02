@@ -51,7 +51,8 @@
 
 # Projects Undertaken
 ## `MiKE – Maybank Investment Bank New Application`
-### Responsibilities:
+### Responsibilities and achievements :
+- 4.2 star app on Andoid
 - Android Tech Lead and Android application developer.
 - Requirement analysis & business logic implementation.
 - Implemented UI/UX for Order Management System with Bursa Malaysia.
@@ -85,7 +86,8 @@
 - [Google Play](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile&hl=en)
 
 ## `Canvera - Partner Application`
-### Responsibilities:
+### Responsibilities and achievements :
+- 4.5 star app on Andoid
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
 - Implemented Photobook feature with custom Albem View with curl animation effects.
@@ -104,7 +106,7 @@
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en)
 
 ## `Canvera - Customer Application`
-### Responsibilities:
+### Responsibilities and achievements :
 - Team Lead And Android Application Developer.
 - Responsible for assigning task to team and reviewing their code.
 - Implemented Photobook feature with custom Albem View with curl animation effects.
@@ -125,7 +127,7 @@
 - [Google Play](https://play.google.com/store/apps/details?id=com.canvera.photoalbum)
 
 ## `Mobmerry- Window Shop your City`
-### Responsibilities:
+### Responsibilities and achievements :
 - Main Android Application Developer.
 - Implemented Order System in application.
 - Implemented Beacons based User detection and redemption concept in application.
@@ -146,7 +148,7 @@
 
 
 ## `Mobmerry - Merchant Application`
-### Responsibilities:
+### Responsibilities and achievements :
 - Implemented Beacons based User detection and redemption concept in application.
 - Responsible for Facebook Login.
 - Implemented Product pages with various animations.
@@ -184,7 +186,7 @@
 
 
 ## `Binge - Pay Smarter at Bangalore Restaurants`
-### Responsibilities:
+### Responsibilities and achievements :
 - Implemented payment system via Internet Banking, Credit/Debit cards and VCloud.
 - Implemented Maps and Navigation system to selected restaurant.
 - Development of the app to adapt different orientations and multiple resolutions depending upon the quality of the device.
@@ -196,7 +198,7 @@
 - [Tap to check it on Play Store](https://play.google.com/store/apps/details?id=com.noroc.binge&hl=en)
 
 ## `MilApp - Meeting and Dating Application`
-### Responsibilities:
+### Responsibilities and achievements :
 - Implemented map, navigation for meeting and group meetings.
 - Implemented chat and group chat.
 - Implemented rating system.
