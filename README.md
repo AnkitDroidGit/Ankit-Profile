@@ -218,7 +218,7 @@
 
 
 
-##### Contact - Let's connect to learn together
+# Contact - Let's connect
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
