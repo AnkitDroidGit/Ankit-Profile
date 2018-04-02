@@ -128,6 +128,8 @@
 
 ## `Mobmerry- Window Shop your City`
 ### Responsibilities and achievements :
+- First Indian eCommerce app with IoT enabled
+- 4.1 star app on Android
 - Main Android Application Developer.
 - Implemented Order System in application.
 - Implemented Beacons based User detection and redemption concept in application.
@@ -164,7 +166,8 @@
 
 
 ## `Times Now - English News Application`
-### Responsibilities:
+### Responsibilities and achievements :
+- 1,000,000+ downloads on Google Play
 - Implemented Login through Google, Facebook and Twitter
 - Worked on Fragments and Fragment Transactions
 - Implemented Live Video and Audio Streaming.
@@ -182,7 +185,7 @@
 - Post production support and bug fixes.
 
 ### Project Url : 
-- [Yeap..!! It crossed 5000000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
+- [Yeap..!! It crossed 1,000,000 downloads !!!!](https://play.google.com/store/apps/details?id=com.timesnowmobile.TimesNow)
 
 
 ## `Binge - Pay Smarter at Bangalore Restaurants`
