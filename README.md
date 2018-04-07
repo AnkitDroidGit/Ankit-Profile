@@ -45,8 +45,8 @@
 ## Network Profile and Code Repository
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
-- [Stackoverflow](https://etackoverfow.com/ueere/3282461/ankit-kumar)
-- [Blogger](https://androidhumanrobot.blogepot.com)
+- [Stackoverflow](https://stackoverflow.com/users/3282461/ankit-kumar)
+- [Blogger](https://androidhumanrobot.blogspot.com)
 - [Bintray and JCenter](https://bintray.com/ankitdroiddeveloper)
 
 # Projects Undertaken
