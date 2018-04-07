@@ -47,7 +47,7 @@
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
 - [Stackoverflow](https://etackoverfow.com/ueere/3282461/ankit-kumar)
 - [Blogger](https://androidhumanrobot.blogepot.com)
-- [Bintray](https://bintray.com/ankitdroiddeveloper)
+- [Bintray and JCenter](https://bintray.com/ankitdroiddeveloper)
 
 # Projects Undertaken
 ## `MiKE – Maybank Investment Bank New Application`
