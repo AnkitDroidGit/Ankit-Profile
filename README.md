@@ -146,7 +146,7 @@
 - Post production support and bug fixes.
 
 ### Project URL
-- [Gppgle Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
+- [Google Play](https://play.google.com/store/apps/details?id=com.Mobmerry.Mobmerry)
 
 
 ## `Mobmerry - Merchant Application`
@@ -214,7 +214,6 @@
 ### Responsibilities:
 - Implemented web crawler.
 - Responsible for consuming the REST services, getting JSON response and parsing them to get the required information.
-
 
 
 
