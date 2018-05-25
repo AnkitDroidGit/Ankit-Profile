@@ -21,7 +21,7 @@
 
 ## Profile Summary
 
-- 5 years and 3 months of development experience on Android Native Application Development.
+- 6 years rich experience on Android Native Application Development.
 - Expert in Object Oriented Programming, Multi-Threading, Collection API and Core Java.
 - Strong experience in Android application development involving User Interface development, Fragments, Content Provider, Intents, Services, Broadcast Receivers and Shared preferences.
 - Hands on experience with Android activity life cycle, Service Life Cycle callbacks.
